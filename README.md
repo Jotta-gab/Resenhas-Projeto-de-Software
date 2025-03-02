@@ -5,7 +5,10 @@ Este repositório contém as resenhas dos capítulos lidos durante a disciplina 
 ## Estrutura
 
 - **Capítulo 5**: Resenha sobre - Princípios de Projeto 
-- **Capítulo 6**: Resenha sobre - Padrões de Projeto 
+- **Capítulo 6**: Resenha sobre - Padrões de Projeto
+- **Capítulo 7**: Resenha sobre - Arquitetura
+- **Capítulo 9**: Resenha sobre - Refactoring
+- **Martin Fowler**: Resenha sobre - Microservices
 
 ## Objetivo
 
